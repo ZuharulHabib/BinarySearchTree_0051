@@ -142,7 +142,7 @@ int main()
 			string word; 
 			cin >> word;
 			obj.insert(word);
-			break;
+			break; 
 		}
 		case'2':
 		{
