@@ -84,4 +84,4 @@ public:
 			cout << ptr->info << "  ";
 			inorder(ptr->rightchild);
 		}
-	}
+	} 
