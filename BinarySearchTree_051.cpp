@@ -116,4 +116,4 @@ public:
 			cout << ptr->info << "  ";
 		}
 	}
-};
+}; 
